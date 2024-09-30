@@ -12,6 +12,10 @@ Text-Aware Diffusion for Policy Learning, arXiv 2 Jul 2024, [[paper]](https://ar
 
 ### Video Generation for Robotics
 
+Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation, arXiv, [[paper]](https://arxiv.org/pdf/2409.16283), [[website]](https://homangab.github.io/gen2act/)
+
+Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation, arXiv [[paper]](https://arxiv.org/pdf/2405.01527), [[website]](https://homangab.github.io/track2act/)
+
 Video Prediction Models as Rewards for Reinforcement Learning, NeurIPS 2023, [[paper]](https://arxiv.org/pdf/2305.14343), [[website]](https://www.escontrela.me/viper/)
 
 1: Learn a video prediction model from expert videos;
